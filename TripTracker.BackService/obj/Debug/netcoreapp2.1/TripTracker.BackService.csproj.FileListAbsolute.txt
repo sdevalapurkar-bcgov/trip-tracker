@@ -11,3 +11,4 @@ C:\Users\191965\Documents\TripTrackerLive\TripTracker.BackService\bin\Debug\netc
 C:\Users\191965\Documents\TripTrackerLive\TripTracker.BackService\obj\Debug\netcoreapp2.1\TripTracker.BackService.RazorTargetAssemblyInfo.cache
 C:\Users\191965\Documents\TripTrackerLive\TripTracker.BackService\obj\Debug\netcoreapp2.1\TripTracker.BackService.dll
 C:\Users\191965\Documents\TripTrackerLive\TripTracker.BackService\obj\Debug\netcoreapp2.1\TripTracker.BackService.pdb
+C:\Users\191965\Documents\TripTrackerLive\TripTracker.BackService\obj\Debug\netcoreapp2.1\TripTracker.BackService.csprojAssemblyReference.cache
